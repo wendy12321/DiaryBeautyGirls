@@ -6,6 +6,6 @@
  Kelompok： 
  535200048 – Joshua Steven 
  535200066 – Wendy Bunandi 
- 535200046 – Raihan Tara
+ 535200046 – Raihan Tara 
 
  Dosen: JANSON HENDRYLI S. Kom. M.Kom.
