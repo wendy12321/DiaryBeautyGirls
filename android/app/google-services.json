@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354861355866",
+    "project_id": "diarybeautygirls-loginsignup",
+    "storage_bucket": "diarybeautygirls-loginsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354861355866:android:0ad3deadbf60e090809963",
+        "android_client_info": {
+          "package_name": "com.example.diarybeautygirls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354861355866-nrucp29dqnensueg1971nkj8am19006o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCXPT6vlFMaHxPQtXVu5IZXJ0fSXf0wFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354861355866-nrucp29dqnensueg1971nkj8am19006o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
