@@ -1,9 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
+// PAGE ROUNDEDBUTTON
 import 'package:diarybeautygirls/roundedbutton.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:flutter/material.dart';
-
-//code for designing the UI of our text field where the user writes his email id or password
 
 const kTextFieldDecoration = InputDecoration(
     hintText: 'Enter a value',
