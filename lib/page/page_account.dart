@@ -204,7 +204,7 @@ class _AccountPageState extends State<AccountPage> {
         SizedBox(
           height: 30,
         ),
-        Divider(
+        Divider(      // Divider ini berfungsi untuk membuat Garis
           thickness: 1,
         ),
         SizedBox(
