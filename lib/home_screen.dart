@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// PAGE 1 2 3 4
+// PAGE PRODUCT 1 2 3 4
 import 'package:diarybeautygirls/page/page_1_2_3_4.dart';
 // PAGE CART
 import 'package:diarybeautygirls/page/page_cart.dart';
@@ -59,7 +59,6 @@ class _HomeScreenState extends State<HomeScreen> {
             BodyD(),
           ],
         ),
-        // Body(),
         bottomNavigationBar: BottomAppBar(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
