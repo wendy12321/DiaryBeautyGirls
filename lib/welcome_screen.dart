@@ -19,7 +19,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               crossAxisAlignment: CrossAxisAlignment.stretch, // Membuat CrossAxis(Vertical) menjadi pas setiap widget
               children: <Widget>[
                 Center(     // Membuat semuanya di tengah
-                  child: Text(
+                  child: Text(      // Membuat Text
                     'Welcome to',
                     style: GoogleFonts.hurricane(     // Font Family dari GoogleFonts
                       textStyle: TextStyle(
