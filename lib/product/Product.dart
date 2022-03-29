@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// Gambar yang ada pada file ini berada di assets
+
 class Product {
   final String image, title, description;
   final int price, size, id;
