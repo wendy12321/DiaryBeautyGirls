@@ -1,14 +1,17 @@
 import 'package:flutter/material.dart';
 
+// Warna dasar
 const kTextColor = Color(0xFF535353);
 const kTextLightColor = Color(0xFFACACAC);
 const kDefaultPaddin = 20.0;
 
 const String APP_TITLE = 'SHOP UI';
 
+// Untuk gambar di Account Page
 const String profileUrl =
     "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80'";
 
+// Untuk gambar di Cart Page
 const List cartList = [
   {
     "img":
@@ -28,8 +31,8 @@ const List cartList = [
   },
 ];
 
+// Untuk detail list di Account Page
 List accountList = [
-  // "Account Details"
   "Loyalty card & offers",
   "Notifications",
   "Delivery Information",
