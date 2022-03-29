@@ -268,18 +268,6 @@ class _CartPageState extends State<CartPage> {
               ),
             ),
           ),
-          // Container(
-          //   height: 50,
-          //   width: double.infinity,
-          //   decoration: BoxDecoration(
-          //       color: Colors.pink, borderRadius: BorderRadius.circular(50 / 2)),
-          //   child: Center(
-          //     child: Text(
-          //       "Buy for \$50".toUpperCase(),
-          //       style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-          //     ),
-          //   ),
-          // ),
         )
       ],
     );
