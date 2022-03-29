@@ -29,7 +29,7 @@ class _CheckOutState extends State<CheckOut> {
           ),
         ),
       ),
-      body: SingleChildScrollView(
+      body: SingleChildScrollView(      // SingleChildScrollView berfungsi untuk tidak terjadinya overpixel
         child: Column(
           children: [
             Padding(
