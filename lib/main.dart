@@ -1,3 +1,4 @@
+// FILE INI UNTUK MENYAMBUNGKAN SEMUA PAGE YANG ADA
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:diarybeautygirls/welcome_screen.dart';
