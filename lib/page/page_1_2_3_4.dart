@@ -1,6 +1,6 @@
 import 'package:diarybeautygirls/home_screen.dart';
 import 'package:flutter/material.dart';
-// DATA-DATA GAMBAR DAN LAIN-LAIN
+// DATA-DATA DAN GAMBAR
 import 'package:diarybeautygirls/product/Product.dart';
 import 'package:diarybeautygirls/product/Product2.dart';
 import 'package:diarybeautygirls/product/Product3.dart';
@@ -10,6 +10,7 @@ import 'package:diarybeautygirls/constant.dart';
 // PAGE CART
 import 'package:diarybeautygirls/page/page_cart.dart';
 
+// URUTAN :
 // BodyH > ItemCard > DetailScreen > Body2 > ProductTitleWithImage > ColorAndSize > Description > CounterWithFavBtn > AddToCart
 // BodyJ > ItemCardJ > DetailScreenJ > Body2J > ProductTitleWithImageJ > ColorAndSizeJ > DescriptionJ > CounterWithFavBtn > AddToCartJ
 // BodyF > ItemCardF > DetailScreenF > Body2F > ProductTitleWithImageF > ColorAndSizeF > DescriptionF > CounterWithFavBtn > AddToCartF
