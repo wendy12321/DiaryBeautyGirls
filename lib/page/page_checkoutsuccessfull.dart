@@ -26,7 +26,7 @@ class _CheckOutSuccessState extends State<CheckOutSuccess> {
             wordSpacing: 2,
           ),
         ),
-        leading: Image(
+        leading: Image(     // Mengambil gambar di assets
           image: AssetImage('assets/images/logo_2.png'),
           fit: BoxFit.fill,
         ),
@@ -45,7 +45,7 @@ class _CheckOutSuccessState extends State<CheckOutSuccess> {
                 ),
               ),
               SizedBox(height: 100,),
-              ElevatedButton(
+              ElevatedButton(     // Membuat Button yang ada bayangan/melayang
                   style: ElevatedButton.styleFrom(
                     primary: Colors.pink[200],
                   ),
