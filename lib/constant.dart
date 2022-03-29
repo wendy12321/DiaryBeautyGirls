@@ -13,6 +13,7 @@ const String profileUrl =
 
 // Untuk gambar di Cart Page
 const List cartList = [
+    // gambar 1
   {
     "img":
         "https://th.bing.com/th/id/OIP.JOwJcSEvQVsMDFAquQ0cqgHaHa?pid=ImgDet&rs=1",
@@ -21,6 +22,7 @@ const List cartList = [
     "price": "\$40",
     "size": "S"
   },
+    // gambar 2
   {
     "img":
         "https://cf.shopee.co.id/file/14f1f4c0cd536d830d883a0e91a45e7a",
